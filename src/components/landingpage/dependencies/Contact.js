@@ -1,6 +1,7 @@
 import React from 'react'
 
 export const Contactcomp = (props) => {
+  console.log(props);
   return (
     <div>
       {/* ======= Contact Section ======= */}
